@@ -1,5 +1,9 @@
 ### Hi there 👋
 ### languages I know
+###Python
+###HTML
+###CSS
+###C++
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamJain27)](https://github.com/SakshamJain27/github-readme-stats)
 
 <!--

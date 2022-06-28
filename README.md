@@ -1,9 +1,5 @@
 ### Hi there 👋
 ### languages I know
-python
-html
-css
-c++
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamJain27)](https://github.com/SakshamJain27/github-readme-stats)
 
 <!--

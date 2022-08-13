@@ -1,14 +1,14 @@
-### Hi there 👋
+
 ### languages I know
-### Python 🐍
+### Python 
 ### HTML 
 ### CSS
 ### C++
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamJain27)](https://github.com/SakshamJain27/github-readme-stats)
-
-<!--
-**SakshamJain27/SakshamJain27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 -->
+<summary align="center">Github Stats</summary>
+<br/>
+<h1 align="left"> Language stats: </h1>
+<p align="left"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorCo&show_icons=true&theme=radical&locale=en'></img></p>
+<h2 align="rightverall stats: </h2>
+<p align="center"><img src='https://github-readme-stats.vercel.app/api?username=DoctorCo&show_icons=true&theme=radical'></img></p>
